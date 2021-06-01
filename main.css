@@ -1,0 +1,16 @@
+*{
+    font-family: 'Quicksand', sans-serif;
+}
+form, h1{
+   text-align: center;
+}
+
+form{
+    align-items: flex-end;
+    position: relative;
+}
+
+input{
+    margin: 5px;
+   padding: 5px;
+}
